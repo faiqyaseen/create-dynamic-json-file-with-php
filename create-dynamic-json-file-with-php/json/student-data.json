@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ali",
+        "class": "23",
+        "age": "30"
+    },
+    {
+        "name": "faiq",
+        "class": "12",
+        "age": "21"
+    },
+    {
+        "name": "zameer",
+        "class": "23",
+        "age": "30"
+    },
+    {
+        "name": "haseeb",
+        "class": "12",
+        "age": "25"
+    }
+]
